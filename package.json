@@ -1,0 +1,10 @@
+{
+  "name": "simple_name_server",
+  "main": "main.js",
+  "version": "0.1.1",
+  "description": "Stores and displays a list of names",
+  "dependencies": {
+    "express": "4.13.3",
+    "body-parser": "1.13.3"
+  }
+}
